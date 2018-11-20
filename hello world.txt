@@ -1,8 +1,5 @@
-print 'hello world';
-print 'hello ';
-
-print 'hello';
-
-print 'hello my dear friend';
-
-print 'glat to see you';
+print 'hello world;';
+print 'hello;';
+print 'hello;';
+print 'hello my dear friend;';
+print 'glat to see you;';
